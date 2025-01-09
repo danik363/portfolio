@@ -11,11 +11,9 @@ interface Props {
   description: string
   techs: string[]
   repo: string
-  repoLabel: string
-  commits: string
 }
 
-const { src, alt, title, description, techs, repo, repoLabel, commits } =
+const { src, alt, title, description, techs, repo } =
   Astro.props
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
@@ -59,20 +57,20 @@ if (!images[src])
     }
   </div>
   <div class="links">
-    { repoLabel ? 
+    <!-- { repoLabel ? 
       <a href={repo}>
         <Icon name="github" size={16} />
         {repoLabel}
       </a>
       : ""
-    }
-    { commits ? 
+    } -->
+    <!-- { commits ? 
       <a href={commits}>
         <Icon name="link" size={16} />
         Commits
       </a>
       : ""
-    }
+    } -->
     
   </div>
 </section>
