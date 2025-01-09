@@ -1,0 +1,141 @@
+{
+  "title": "Desarrollador Web Full Stack - Daniel Sucno",
+  "description": "Desarrollador Web Full Stack de Buenos Aires, Argentina. Especialista en HTML5, CSS5, JavaScript ES6+, Node.js, MySQL, Vue.js, PHP y Laravel.",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Proyectos",
+      "href": "#proyectos"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy Daniel Sucno!",
+    "job_title": "<strong>Desarrollador Web Full Stack</strong> de Buenos Aires, Argentina.",
+    "description": "Especialista en HTML5, CSS5, JavaScript ES6+, Node.js, Vue.js, MySQL, PHP y Laravel.",
+    "cta": "Contactame"
+  },
+  "experience": {
+    "title": "Experiencia laboral",
+    "jobs": {
+      "jobs_title": ["Desarrollador", "Analista de soporte tecnico"],
+      "jobs_description": [
+        {
+          "title": "Desarrollador Web Full Stack",
+          "time": ["May 2024"],
+          "description": "Me encargue del desarrollo de nuevas funcionalidades,optimizacion y mantenimiento de la web app existente, a si como tambien del desarrollo de webservices en diferentes tecnologias",
+          "list": ["Desarrollo Full Stack", "Mantenimiento y optimizacion de software"]
+        },
+        {
+          "title": "Analista de soporte tecnico",
+          "time": ["Nov 2022", "May 2024"],
+          "description": "Me encargaba de brindar soporte técnico, resolviendo incidentes de hardware y software, y asegurando el funcionamiento óptimo de los sistemas, además de colaborar en la mejora de procesos internos.",
+          "list": ["Atencion al cliente", "Analisis, deteccion y clasificacion de problemas"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "Chat app",
+        "description": "Desarrollé una web app de chat como proyecto personal, enfocada en proporcionar una experiencia de mensajería en tiempo real",
+        "image": "/src/images/projects/chat-app.png",
+        "techs": ["Vuejs", "Firebase", "Express", "SocketIO",  "MongoDB"],
+        "code": "Código",
+        "preview": "Vista previa",
+        "codeUrl": "#",
+        "previewUrl": "https://chat-app-front-six-nu.vercel.app/"
+      },
+      {
+        "title": "Platzi exchange",
+        "description": "Desarrollé Platzi Exchange, una aplicación de intercambio de criptomonedas, como parte del curso de Vue.js. El proyecto incluye búsqueda y visualización de precios en tiempo real, utilizando componentes y rutas dinámicas de Vue.js.",
+        "image": "/src/images/projects/platzi-exchanges.png",
+        "techs": ["Vuejs", "CSS"],
+        "code": "Código",
+        "preview": "Vista previa",
+        "codeUrl": "https://github.com/danik363/Platzi-exchange",
+        "previewUrl": "https://platzi-exchange-rust.vercel.app/"
+      },
+      {
+        "title": "Note app",
+        "description": "Desarrollé esta aplicación de notas como uno de mis primeros proyectos personales, con el objetivo de practicar mis habilidades en desarrollo web. La app permite crear, editar y eliminar notas de forma sencilla.",
+        "image": "/src/images/projects/note-app.png",
+        "techs": [
+          "Ejs",
+          "CSS",
+          "JavaScript",
+          "Express",
+          "MongoDB"
+        ],
+        "code": "Código",
+        "preview": "Vista previa",
+        "codeUrl": "https://github.com/danik363/noteApp",
+        "previewUrl": "https://note-app-danik363s-projects.vercel.app/"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contribuciones",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/circular-influence.png",
+        "alt": "Circular influence",
+        "title": "Circular influence",
+        "description": "Colabore con la ong Circular influence para el desarrollo y mantenimiento de sus diferentes web apps para sus diferentes eventos, a si como tambien retoques del diseñon de la web principal",
+        "techs": ["HTML", "CSS", "JavaScript", "Bitrix24"],
+        "repo": "https://circularinfluence.org/"
+      },
+      {
+        "src": "/src/images/contributions/help-center-form.png",
+        "alt": "Help center",
+        "title": "Help center",
+        "description": "Colabore con el desarrollo del web server encargado de permitir crear tickets en el sistema de tickets GLPI junto con su implementacion en los correspondientes formularios",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP"],
+        "repo": "https://helpcenter.hiperpbx.com/pages/contact/soporte-hiperme"
+      },
+      {
+        "src": "/src/images/contributions/check-if-burnout.png",
+        "alt": "Check if burnout",
+        "title": "Check if burnout",
+        "description": "En conjunto con mi equipo de la universidad creamos nuestro primer videojuegos donde tratamos de transmitir el famoso burnout que se da tras un estres acumulado",
+        "techs": ["JavaScript", "Construct3"],
+        "repo": "https://alexisvdeveloper.itch.io/check-if-i-burnout"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Soy un apasionado de la programación. Si bien disfruto desarrollando para la web, también me llama mucho la atención el mundo del desarrollo de videojuegos",
+    "description": "Soy un desarrollador web full stack con un año de experiencia, especializado en tecnologías como JavaScript ES6+, HTML 5, CSS, Vue.js, PHP, Laravel, MySQL y Node.js. Tengo una sólida comprensión de las mejores prácticas en desarrollo web, y me enfoco en crear aplicaciones dinámicas y eficientes. Mi experiencia me permite construir tanto el frontend como el backend de proyectos web, brindando soluciones completas y optimizadas. Estoy comprometido con el aprendizaje continuo y la mejora constante para abordar proyectos innovadores y de alto impacto."
+  },
+  "contact": {
+    "title": "¿Listo para dar vida a tus ideas?",
+    "subtitle": "Puedo impulsar tu proyecto o formar parte de tu equipo",
+    "linkedin": "https://www.linkedin.com/in/danielsucno/",
+    "email": "daniksucno363@gmail.com",
+    "github": "https://github.com/danik363"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Diseñado con",
+      "designed_by": "por"
+    },
+    "developed": {
+      "developed_with": "Hecho con",
+      "developed_by": "por"
+    }
+  }
+}

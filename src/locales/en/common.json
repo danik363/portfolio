@@ -1,0 +1,135 @@
+{
+  "title": "Full Stack Web Developer - Daniel Sucno",
+  "description": "Full Stack Web Developer from Buenos Aires, Argentina. Specialist in HTML5, CSS5, JavaScript ES6+, Node.js, MySQL, Vue.js, PHP, and Laravel.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "Experience",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Projects",
+      "href": "#proyectos"
+    },
+    {
+      "label": "About Me",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hi, I'm Daniel Sucno!",
+    "job_title": "<strong>Full Stack Web Developer</strong> from Buenos Aires, Argentina.",
+    "description": "Specialist in HTML5, CSS5, JavaScript ES6+, Node.js, Vue.js, MySQL, PHP, and Laravel.",
+    "cta": "Contact Me"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "jobs_title": ["Developer", "Technical Support Analyst"],
+      "jobs_description": [
+        {
+          "title": "Full Stack Web Developer",
+          "time": ["May 2024"],
+          "description": "I was responsible for developing new features, optimizing, and maintaining the existing web app, as well as developing web services in different technologies.",
+          "list": ["Full Stack Development", "Software Maintenance and Optimization"]
+        },
+        {
+          "title": "Technical Support Analyst",
+          "time": ["Nov 2022", "May 2024"],
+          "description": "I provided technical support, resolving hardware and software incidents, ensuring optimal system performance, and collaborating on internal process improvements.",
+          "list": ["Customer Support", "Problem Analysis, Detection, and Classification"]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Chat app",
+        "description": "I developed a chat web app as a personal project, focused on providing a real-time messaging experience.",
+        "image": "/src/images/projects/chat-app.png",
+        "techs": ["Vuejs", "Firebase", "Express", "SocketIO", "MongoDB"],
+        "code": "Code",
+        "preview": "Preview",
+        "codeUrl": "#",
+        "previewUrl": "https://chat-app-front-six-nu.vercel.app/"
+      },
+      {
+        "title": "Platzi exchange",
+        "description": "I developed Platzi Exchange, a cryptocurrency exchange application, as part of the Vue.js course. The project includes real-time price search and visualization, using Vue.js components and dynamic routes.",
+        "image": "/src/images/projects/platzi-exchanges.png",
+        "techs": ["Vuejs", "CSS"],
+        "code": "Code",
+        "preview": "Preview",
+        "codeUrl": "https://github.com/danik363/Platzi-exchange",
+        "previewUrl": "https://platzi-exchange-rust.vercel.app/"
+      },
+      {
+        "title": "Note app",
+        "description": "I developed this note application as one of my first personal projects to practice my web development skills. The app allows creating, editing, and deleting notes easily.",
+        "image": "/src/images/projects/note-app.png",
+        "techs": ["Ejs", "CSS", "JavaScript", "Express", "MongoDB"],
+        "code": "Code",
+        "preview": "Preview",
+        "codeUrl": "https://github.com/danik363/noteApp",
+        "previewUrl": "https://note-app-danik363s-projects.vercel.app/"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contributions",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/circular-influence.png",
+        "alt": "Circular influence",
+        "title": "Circular influence",
+        "description": "I collaborated with the NGO Circular Influence in developing and maintaining their various web apps for different events, as well as tweaking the main website design.",
+        "techs": ["HTML", "CSS", "JavaScript", "Bitrix24"],
+        "repo": "https://circularinfluence.org/"
+      },
+      {
+        "src": "/src/images/contributions/help-center-form.png",
+        "alt": "Help center",
+        "title": "Help center",
+        "description": "I contributed to the development of the web server responsible for creating tickets in the GLPI ticket system along with its implementation in the corresponding forms.",
+        "techs": ["HTML", "CSS", "JavaScript", "PHP"],
+        "repo": "https://helpcenter.hiperpbx.com/pages/contact/soporte-hiperme"
+      },
+      {
+        "src": "/src/images/contributions/check-if-burnout.png",
+        "alt": "Check if burnout",
+        "title": "Check if burnout",
+        "description": "Together with my university team, we created our first video game where we tried to convey the famous burnout that occurs after accumulated stress.",
+        "techs": ["JavaScript", "Construct3"],
+        "repo": "https://alexisvdeveloper.itch.io/check-if-i-burnout"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "I am passionate about programming. While I enjoy developing for the web, I am also very interested in the world of video game development.",
+    "description": "I am a full stack web developer with one year of experience, specializing in technologies like JavaScript ES6+, HTML5, CSS, Vue.js, PHP, Laravel, MySQL, and Node.js. I have a solid understanding of best practices in web development, and I focus on creating dynamic and efficient applications. My experience allows me to build both the frontend and backend of web projects, providing complete and optimized solutions. I am committed to continuous learning and improvement to tackle innovative and high-impact projects."
+  },
+  "contact": {
+    "title": "Ready to bring your ideas to life?",
+    "subtitle": "I can boost your project or be part of your team",
+    "linkedin": "https://www.linkedin.com/in/danielsucno/",
+    "email": "daniksucno363@gmail.com",
+    "github": "https://github.com/danik363"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "by"
+    },
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}
